@@ -2,10 +2,16 @@
     <div class="box sidemenu">
         <div class="block" id="section-menu">
             <ul class="section menu">
+                <li><a class="menuitem">Danh mục sản phẩm</a>
+                    <ul class="submenu">
+                        <li><a href="catadd.php">Thêm danh mục</a> </li>
+                        <li><a href="catlist.php">Danh sách sản phẩm</a> </li>
+                    </ul>
+                </li>
                 <li><a class="menuitem">Thương hiệu sản phẩm</a>
                     <ul class="submenu">
-                        <li><a href="catadd.php">Thêm thương hiệu</a> </li>
-                        <li><a href="catlist.php">Danh mục thương hiệu</a> </li>
+                        <li><a href="brandadd.php">Thêm thương hiệu</a> </li>
+                        <li><a href="brandlist.php">Danh mục thương hiệu</a> </li>
                     </ul>
                 </li>
                <li><a class="menuitem">Site Option</a>
