@@ -1,5 +1,5 @@
 <?php 
-    include_once '../lib/session.php';
+    include '../lib/session.php';
     Session::checkSession();
  ?>
 <?php
